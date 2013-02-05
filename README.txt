@@ -1,3 +1,17 @@
+05-02-2013
+
+Zmienily sie troche zalozenia.
+
+Program wymaga 2 dodatkowych plików do funkcjonowania:
+
+1. plik o nazwie A1.csv - zawiera baze leków
+struktura tego pliku to:
+
+G³ówny sk³adnik leku;Nazwa leku;Odp³atnoœæ
+
+2. plik o nazwie Recepta.png - jest to plik graficzny z wzorem recepty - potrzebny do wydruku
+
+------------------------------------------------------------------------------------------------------------------
 Projekt RECEPTA
 
 baza pacjentów
